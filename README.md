@@ -1,4 +1,4 @@
-# Hi there, I'm Daniela! 👋🇧🇷
+# Hi there, I'm Daniela! 👋🇧🇷 🇦🇷 🇧🇪 🇫🇷 🇳🇱 🇩🇪 🇪🇸 🇵🇹 and more...
 
 I am a **Full-stack Developer** and **AI Automation Specialist** currently expanding my horizons into Back-end Engineering and Data Workflows. My ultimate goal is to become a **Software Engineer**, building scalable, efficient, and intelligent systems.
 
@@ -8,8 +8,12 @@ I am a **Full-stack Developer** and **AI Automation Specialist** currently expan
 
 * 💻 **Currently building:** Interactive Front-end applications and robust Back-end integrations.
 * 🤖 **AI & Automation:** Creating advanced multi-agent systems and automated pipelines using **n8n**.
+* * 🩺 **Future MD & Software Engineer:** Passionate about combining the worlds of Medicine, Technology, and Artificial Intelligence.
+* * 🗺️ **Multicultural Background:** Holder of diverse European and South American heritage (🇧🇷 🇦🇷 🇧🇪 🇫🇷 🇳🇱 🇩🇪 🇪🇸 🇵🇹, among others).
 * 🎯 **Career Goal:** Transitioning from Full-stack Development to Software Engineering, focusing on architecture and scalability.
 * 🗺️ **Global Mindset:** Passionate about learning, technology, and cultures.
+* * 🎹 **Music & Piano:** Deeply passionate about music and a piano player — finding the perfect harmony between classical melodies and clean code.
+  * * 🏊‍♀️ **Former Swimmer:** Ex-long-time-swimmer — bringing the discipline, focus, and drive from the pool straight into technology, medicine and life.
 
 ---
 
@@ -33,7 +37,7 @@ I am a **Full-stack Developer** and **AI Automation Specialist** currently expan
 | 🇧🇷 **Portuguese** | Native Speaker |
 | 🇺🇸 **English** | Professional / Fluent |
 | 🇪🇸 **Spanish** | Conversational / Fluent |
-| 🏛️ **Latin** | Academic / Reading & Writing |
+| 🏛️ **Latin** | Academic / Almost Fluent |
 
 ---
 
