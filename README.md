@@ -47,4 +47,4 @@ I am a **Full-stack Developer** and **AI Automation Specialist** currently expan
 
 ---
 
-> *"Alea iacta est. Code is written, systems are automated, and the future is built."* 🚀
+> *"Ad alta tendimus! Code is written, systems are automated, and the future is built."* 🚀
