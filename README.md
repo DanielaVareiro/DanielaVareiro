@@ -37,7 +37,7 @@ I am a **Full-stack Developer** and **AI Automation Specialist** currently expan
 | 🇧🇷 **Portuguese** | Native Speaker |
 | 🇺🇸 **English** | Professional / Fluent |
 | 🇪🇸 **Spanish** | Conversational / Fluent |
-| 🏛️ **Latin** | Academic / Almost Fluent |
+| 🏛️ **Latin** | Academic |
 
 ---
 
