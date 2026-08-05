@@ -14,6 +14,7 @@ I am a **Full-stack Developer** and **AI Automation Specialist** currently expan
 * 🗺️ **Global Mindset:** Passionate about learning, technology, and cultures.
 * 🎹 **Music & Piano:** Deeply passionate about music and a piano player — finding the perfect harmony between classical melodies and clean code.
 * 🏊‍♀️ **Former Swimmer:** Ex-long-time-swimmer — bringing the discipline, focus, and drive from the pool straight into technology, medicine and life.
+* 🌎 **I am a polyglot** fluent in multiple languages, enabling me to communicate and collaborate across global contexts.
 
 ## 🛠️ My Tech Stack
 
