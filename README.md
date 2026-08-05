@@ -54,10 +54,12 @@ I am a **Full-stack Developer** and **AI Automation Specialist** currently expan
 
 ## 🏆 Featured Repositories
 
-* 🐙 [n8n-multiagents-orchestrator](https://github.com/DanielaVareiro/n8n-multiagents-orchestrator) - An advanced, production-ready multi-agent system orchestrating specialized AI agents.
-* 🤖 [n8n-automations](https://github.com/DanielaVareiro/n8n-automations) - Intelligent AI agents, invoice parsers, and workflow automations.
-* 🐍 [Snake-Game](https://github.com/DanielaVareiro/Snake-Game) - A classic arcade Snake Game built with HTML5, CSS3, and JavaScript.
-* 🧮 [Calculator](https://github.com/DanielaVareiro/Calculator) - A modern web calculator featuring a sleek UI and responsive layout.
+* 🐙 **[n8n-multiagents-orchestrator](https://github.com/DanielaVareiro/n8n-multiagents-orchestrator)** - An advanced, production-ready multi-agent system orchestrating specialized AI agents.
+* 🤖 **[n8n-automations](https://github.com/DanielaVareiro/n8n-automations)** - Intelligent AI agents, invoice parsers, and workflow automations.
+* ⚡ **[AI-Component-Generator-Sandbox](https://github.com/DanielaVareiro/AI-Component-Generator-Sandbox)** - Dynamic UI component generator built with HTML5 and Tailwind CSS, powered by Groq API & Llama 3.3.
+* 🎨 **[Color-Palette-Generator-AI-Assistant](https://github.com/DanielaVareiro/Color-Palette-Generator-AI-Assistant)** - Modern web application for generating and curating color palettes with an AI assistant and Notion integration.
+* 🐍 **[Snake-Game](https://github.com/DanielaVareiro/Snake-Game)** - A classic arcade Snake Game built with HTML5, CSS3, and JavaScript.
+* 🧮 **[Calculator](https://github.com/DanielaVareiro/Calculator)** - A modern web calculator featuring a sleek UI and responsive layout.
 
 ---
 
