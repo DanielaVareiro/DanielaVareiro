@@ -1,4 +1,4 @@
-# Hi there, I'm Daniela, 17 years & Brazillian! 👋🇧🇷 🇦🇷 🇧🇪 🇳🇱
+# Hi there, I'm Daniela, 17 years & Brazilian! 👋🇧🇷 🇦🇷 🇧🇪 🇳🇱
 
 I am a **Full-stack Developer** and **AI Automation Specialist** currently expanding my horizons into Back-end Engineering and Data Workflows. My ultimate goal is to become a **Software Engineer**, building scalable, efficient, and intelligent systems.
 
@@ -6,6 +6,9 @@ I am a **Full-stack Developer** and **AI Automation Specialist** currently expan
 
 ## 🚀 About Me
 
+* 🎓 **Current Education:** Coursing **CS50x: Introduction to Computer Science** by Harvard University, mastering fundamental concepts and learning **C**.
+* 💻 **Development:** Expanding my knowledge of **n8n** automations and building new projects.
+* 📚 **Data Science Journey:** Deepening my knowledge in **Data Science & Analytics**, learning advanced **Python** through specialized books and practical documentation.
 * 💻 **Currently building:** Interactive Front-end applications and robust Back-end integrations.
 * 🤖 **AI & Automation:** Creating advanced multi-agent systems and automated pipelines using **n8n**.
 * 🩺 **Future MD & Software Engineer:** Passionate about combining the worlds of Medicine, Technology, and Artificial Intelligence.
