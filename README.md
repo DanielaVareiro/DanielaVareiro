@@ -19,8 +19,6 @@ I am a **Full-stack Developer** and **AI Automation Specialist** currently expan
 * 🏊‍♀️ **Former Swimmer:** Ex-long-time-swimmer — bringing the discipline, focus, and drive from the pool straight into technology, medicine and life.
 * 🌎 **I am a polyglot** fluent in multiple languages, enabling me to communicate and collaborate across global contexts.
 
-![CS50](https://shields.io)
-
 ## 🛠️ My Tech Stack
 
 #### Front-End & Core
@@ -35,6 +33,7 @@ I am a **Full-stack Developer** and **AI Automation Specialist** currently expan
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![CS50](https://shields.io)
 
 #### DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
