@@ -1,4 +1,6 @@
-Hi there, I'm Daniela, 17 years & Brazilian! 👋🇧🇷 🇦🇷 🇧🇪 🇳🇱
+<p align="center"> 
+  <h1>Hi there, I'm Daniela, 17 years & Brazilian! 👋🇧🇷 🇦🇷 🇧🇪 🇳🇱</h1>
+</p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=DanielaVareiro&color=d4af37&style=flat" alt="Profile Views" />
 </p>
