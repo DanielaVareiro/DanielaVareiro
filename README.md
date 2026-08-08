@@ -1,7 +1,8 @@
+Hi there, I'm Daniela, 17 years & Brazilian! 👋🇧🇷 🇦🇷 🇧🇪 🇳🇱
 <p align="center">
-  <h1>Hi there, I'm Daniela, 17 years & Brazilian! 👋🇧🇷 🇦🇷 🇧🇪 🇳🇱</h1>
-  <img src="https://komarev.com/ghpvc/?username=DanielaVareiro&color=e6c730&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=DanielaVareiro&color=d4af37&style=flat" alt="Profile Views" />
 </p>
+
 I am a **Full-stack Developer** and **AI Automation Specialist** currently expanding my horizons into Back-end Engineering and Data Workflows. My ultimate goal is to become a **Software Engineer**, building scalable, efficient, and intelligent systems.
 
 ---
