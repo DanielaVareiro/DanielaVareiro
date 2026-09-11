@@ -46,6 +46,7 @@ I am a **Full-stack Developer** and **AI Automation Specialist** currently expan
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![ngrok](https://img.shields.io/badge/ngrok-1E1E1E?style=for-the-badge&logo=ngrok&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 #### AI & Workflows
 ![n8n](https://img.shields.io/badge/n8n-FF6584?style=for-the-badge&logo=n8n&logoColor=white)
