@@ -5,6 +5,12 @@
   <img src="https://komarev.com/ghpvc/?username=DanielaVareiro&color=d4af37&style=flat" alt="Profile Views" />
 </p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DanielaVareiro/DanielaVareiro/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DanielaVareiro/DanielaVareiro/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DanielaVareiro/DanielaVareiro/output/github-contribution-grid-snake.svg">
+</picture>
+
 I am a **Full-stack Developer** and **AI Automation Specialist** currently expanding my horizons into Back-end Engineering and Data Workflows. My ultimate goal is to become a **Software Engineer**, building scalable, efficient, and intelligent systems.
 
 ---
